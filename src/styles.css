@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/*import React from "react";
+
+const RandomNameComponent = () => {
+  const RandomNameFunction1 = () => {
+    const data = ["Element 1", "Element 2", "Element 3"];
+
+    RandomNameFunction2();
+  };
+  const RandomNameFunction2 = () => {
+    const data = ["Element1", "Element2", "Element3"];
+    data.forEach((element) => {
+      console.log(element);
+      RandomNameFunction1();
+    });
+  };
+  return (
+    <div>
+      <h1>This is a Random Name Component</h1>
+    </div>
+  );
+};
+export default RandomNameComponent;
+//*
